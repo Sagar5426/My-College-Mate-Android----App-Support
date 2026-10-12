@@ -1,5 +1,6 @@
 # 📘 MyCollegeMate for Android
 
+
 <p align="center">
   <strong>Your college life. Organized.</strong>
   <br />
